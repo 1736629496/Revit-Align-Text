@@ -1,0 +1,3 @@
+# 诊断输出（每位用户本地生成，不入库）
+diagnose_out.txt
+align.log

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitTextAlignment</Name>
+    <Assembly>RevitTextAlignment.dll</Assembly>
+    <AddInId>28cab4a9-1e48-4c2c-b88c-334607e4f07c</AddInId>
+    <FullClassName>RevitTextAlignment.App</FullClassName>
+    <VendorId>RTA</VendorId>
+    <VendorDescription>RevitTextAlignment</VendorDescription>
+  </AddIn>
+</RevitAddIns>
